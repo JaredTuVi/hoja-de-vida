@@ -1,0 +1,27 @@
+body{
+    background-color: #fdfdfd;
+    color: #000000;
+    font-family: Arial sans-serif;
+}
+/* ============================
+          SECCION
+   ============================       
+ */
+
+h1{
+  color: #000000;
+  font-size: 40px;
+}
+
+.Seccion{
+    background-color:rgb(255, 0, 0) ;
+}
+
+#Perfil{
+    background-color: rgb(255, 0, 0);
+}
+
+p{
+    color: #000000;
+    font-size: 20px;
+}
